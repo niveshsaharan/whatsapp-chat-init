@@ -22,9 +22,9 @@
     "webpack-cli": "^4.8.0"
   },
   "browserslist": "last 3 years",
-  "name": "webpack-tailwindcss",
+  "name": "whatsapp-chat-initiator",
   "version": "1.1.0",
-  "description": "Webpack + TailwindCSS + ESBuild",
-  "author": "Paweł Kowalski <pavelloz@gmail.com>",
+  "description": "Initiate chat with any whatsapp user without saving them as contact",
+  "author": "Nivesh Saharan <hey@nive.sh>",
   "license": "ISC"
 }
