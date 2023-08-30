@@ -39,7 +39,7 @@
 <script>
   document.addEventListener('alpine:init', () => {
     Alpine.data('whatsapp', () => ({
-      phone: '+91',
+      phone: '',
 
       input(event) {
         let value = (event.target.value || '').replaceAll(' ', '')
